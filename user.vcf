@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Abdalla;Salma;;;
-FN: Salma  Abdalla 
+N:Droandi;Martina;;;
+FN: Martina  Droandi 
 ORG:Autlook Filmsales;
-TITLE:CEO
-EMAIL;type=INTERNET;type=WORK;type=pref:salma@autlookfilms.com
-TEL;type=WORK;type=VOICE:+43 676 9003771
+TITLE:Sales & Acquisitions
+EMAIL;type=INTERNET;type=WORK;type=pref:martina@autlookfilms.com
+TEL;type=WORK;type=VOICE:+43 677 63411156
 item1.ADR;type=WORK;type=pref:;;Spittelberggasse 3/14\n1070 Vienna;;;Austria
 item1.X-ABADR:sg
 item2.URL;type=pref:autlookfilms.com
